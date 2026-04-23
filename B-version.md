@@ -314,10 +314,3 @@ Switching cost tăng dần theo thời gian dùng
 6. Báo cáo nào họ hay đọc nhất? (→ ưu tiên loại báo cáo nào để test accuracy)
 
 ---
-
-## Next Steps Before Day 17
-
-- [ ] **Phỏng vấn 10 nhà đầu tư cá nhân** (20 phút mỗi người) — focus vào Unknown #1
-- [ ] **Test accuracy thủ công:** Lấy 5 báo cáo BCTC thực tế, dùng Claude API phân tích, tự đánh giá kết quả
-- [ ] **Competitor research:** Search kỹ trước khi tiếp tục
-- [ ] **Decision:** Nếu 6/10 confirm WTP → build MVP. Nếu không → rethink pricing hoặc pivot use case.
